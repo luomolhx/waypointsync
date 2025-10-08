@@ -1,4 +1,4 @@
-package miku.luomo.waypointsync;
+package luomo.miku.waypointsync;
 
 import java.io.File;
 
